@@ -1,0 +1,9 @@
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\bin\Debug\Chemformulatron.exe.config
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\bin\Debug\Chemformulatron.exe
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\bin\Debug\Chemformulatron.pdb
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\obj\Debug\Chemformulatron.csprojAssemblyReference.cache
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\obj\Debug\Chemformulatron.Properties.Resources.resources
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\obj\Debug\Chemformulatron.csproj.GenerateResource.cache
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\obj\Debug\Chemformulatron.exe
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\obj\Debug\Chemformulatron.pdb
+C:\Users\bryton\Desktop\1192_A02_LINQ_B\Chemformulatron\Chemformulatron\obj\Debug\Chemformulatron.ChemformulatronForm.resources
